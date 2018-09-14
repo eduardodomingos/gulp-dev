@@ -1,7 +1,7 @@
 {
   "name": "gulp-dev",
   "version": "1.0.0",
-  "description": "Automated dev tasks for WordPress themes based on Underscores",
+  "description": "Automated dev tasks for WordPress themes based on _S",
   "repository": {
     "type": "git",
     "url": "https://github.com/eduardodomingos"
